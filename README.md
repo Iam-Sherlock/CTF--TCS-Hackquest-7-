@@ -2,7 +2,7 @@
 ![1673355147517-nizenberg](https://user-images.githubusercontent.com/53529867/211574610-12fa243b-c526-412c-bacc-23f2d79ba81f.jpeg)
 # Other than this there are two questions which has been changed during the Contest >>
 ## Solved Questions 
-### 1) Rorchash Test (VS test)
+### 1) Rorchash Test
 
 In the Rorschach test the description was really big story it has quoted that a mathematician hidden the quote in a normal text. 
 Then moved to the website and saw the word wazhuh! A n number of times where if you copy and paste in a text editor whole linux machine will hung and meanwhile the google docs went unresponsive after pasting so i did scrolled all the way from start to end then found some letters in between the words “wazhuh” and merged all the words got the flag
